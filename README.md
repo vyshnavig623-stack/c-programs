@@ -8,49 +8,49 @@ Basics-
 3.fibonacci
 4.gcd and lcm
 Functions-
-1.swap using functions
-2.power function 
-3.recursive fact
-4.recursive Fibonacci
-5.perfect number
+5.swap using functions
+6.power function 
+7.recursive fact
+8.recursive Fibonacci
+9.perfect number
 Arrays-
-1.airthmatic operations on array
-2.largest and smallest 
-3.second largest
-4.merge two arrays
-5.spiral matrix printing
+10.airthmatic operations on array
+11.largest and smallest 
+12.second largest
+13.merge two arrays
+14.spiral matrix printing
 Strings- 
-1.reverse
-2.palindrome
-3.vowels count
-4.remove spaces
-5.character frequency 
-6.strcmp,strlen,strcpy
+15.reverse
+16.palindrome
+17.vowels count
+18.remove spaces
+19.character frequency 
+20.strcmp,strlen,strcpy
 Pointers-
-1.pointer arithmetic 
-2.swap using pointers
-3.dynamic memory allocation 
-5.array using pointers
+21.pointer arithmetic 
+22.swap using pointers
+23.dynamic memory allocation 
+24.array using pointers
 Structures-
-1.student database
-2.employee record
-3.library management 
-4.bank account system 
+25.student database
+26.employee record
+27.library management 
+28.bank account system 
 File handling-
-1.store student details
-2.read and write files 
-3.count words in file
-4.copy one file to another
+29.store student details
+30.read and write files 
+31.count words in file
+32.copy one file to another
 Recursion-
-1.towers of hanoi
-2.binary search 
-3.sum of digits
-4.reverse string
+33.towers of hanoi
+34.binary search 
+35.sum of digits
+36.reverse string
 Sorting
 Bitwise-
-1 even/odd
-2 count set bits
-3.swap without temp
-4.missing number using xor
+37 even/odd
+38 count set bits
+39.swap without temp
+40.missing number using xor
 ##By
 Vyshnavi G
