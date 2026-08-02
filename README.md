@@ -1,5 +1,5 @@
 # C programs
-this repository contains my c programming practice programs
+this repository contains my c programming practice
 #programs
 C in git
 Basics-
